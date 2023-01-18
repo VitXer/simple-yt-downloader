@@ -1,6 +1,7 @@
-Hello.
+Hello. This is my first program.
+It's a program with graphical interface that allows you to download videos from YouTube and convert them to desired format.
 
-Code is so simple I don't think it needs explaining.
+Code is so simple I don't think it needs explaining
 I use Tkinter to make windows.
 I use yt-dlp to download videos.
 I use ffmpeg to convert videos.
